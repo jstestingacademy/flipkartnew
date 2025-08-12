@@ -1,6 +1,11 @@
+Testcases\Flipkarttest.class
+Stepdefinitions\searchstepswithmultiplevalues.class
+Stepdefinitions\Hooks.class
+Testcases\Flipkarttest$1.class
+Testcases\FlipkartSearchtest.class
 Pages\FlipkartResultPage.class
 Pages\FlipkartSearchpage.class
 Stepdefinitions\FilpkartSearchteststeps.class
 TestRunner\TestRunner.class
+Stepdefinitions\Searchwithdatatable.class
 Testcases\FlipkartResultTest.class
-Testcases\FlipkartSearchtest.class

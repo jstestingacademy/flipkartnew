@@ -3415,3 +3415,147 @@
 2025-08-12 10:52:30 [main] INFO  Baseclass.libarrayclass - Searched for: books
 2025-08-12 10:52:43 [main] INFO  Baseclass.libarrayclass - Searched for: tv
 2025-08-12 10:53:04 [main] INFO  Baseclass.libarrayclass - Closed Browser
+2025-08-12 11:38:33 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:38:33 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:38:34 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:38:34 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:38:34 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:38:34 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:38:34 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:38:34 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:38:34 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:38:34 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:38:56 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:38:56 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:38:57 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:38:57 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:38:57 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:38:57 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:38:57 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:38:57 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:38:57 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:38:57 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:40:15 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:40:15 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:40:16 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:40:16 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:40:16 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:40:16 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:40:16 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:40:16 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:40:16 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:40:16 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:42:33 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:42:33 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6198e9b5
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 17
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @7f560810
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent - maxDirectMemory: 4271898624 bytes (maybe)
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\C2TA\AppData\Local\Temp (java.io.tmpdir)
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2025-08-12 11:42:33 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2025-08-12 11:42:33 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2025-08-12 11:42:33 [main] DEBUG io.netty.util.concurrent.GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+2025-08-12 11:42:33 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 12
+2025-08-12 11:42:33 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+2025-08-12 11:42:33 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 12
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 12
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+2025-08-12 11:42:33 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2025-08-12 11:42:34 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 21344 (auto-detected)
+2025-08-12 11:42:34 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+2025-08-12 11:42:34 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+2025-08-12 11:42:34 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2025-08-12 11:42:34 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2025-08-12 11:42:34 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 00:e0:4f:ff:fe:19:c6:f6 (auto-detected)
+2025-08-12 11:42:34 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+2025-08-12 11:42:34 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+2025-08-12 11:42:34 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@72f96b1e
+2025-08-12 11:42:34 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2025-08-12 11:42:34 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+2025-08-12 11:42:34 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+2025-08-12 11:42:34 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+2025-08-12 11:42:34 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+2025-08-12 11:42:36 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+2025-08-12 11:42:36 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x8c156e282c2c369f
+2025-08-12 11:42:36 [main] INFO  Baseclass.libarrayclass - Launching Chrome browser...
+2025-08-12 11:42:37 [main] INFO  Baseclass.libarrayclass - Maximixing the browser
+2025-08-12 11:42:40 [main] INFO  Baseclass.libarrayclass - Naivagated to url
+2025-08-12 11:42:40 [main] INFO  Baseclass.libarrayclass - Application Launched
+2025-08-12 11:42:51 [main] INFO  Baseclass.libarrayclass - Searched Mobiles
+2025-08-12 11:42:54 [main] INFO  Baseclass.libarrayclass - Clicked Search
+2025-08-12 11:42:54 [main] INFO  Baseclass.libarrayclass - Naviagted to result page
+2025-08-12 11:42:55 [main] INFO  Baseclass.libarrayclass - Took screenshot
+2025-08-12 11:42:55 [main] INFO  Baseclass.libarrayclass - Closed Browser
+2025-08-12 11:42:56 [main] INFO  Baseclass.libarrayclass - Closed Browser
+2025-08-12 11:42:56 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:42:56 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:42:58 [main] INFO  Baseclass.libarrayclass - Launching Chrome browser...
+2025-08-12 11:42:59 [main] INFO  Baseclass.libarrayclass - Maximixing the browser
+2025-08-12 11:43:03 [main] INFO  Baseclass.libarrayclass - Naivagated to url
+2025-08-12 11:43:03 [main] INFO  Baseclass.libarrayclass - Application Launched
+2025-08-12 11:43:13 [main] INFO  Baseclass.libarrayclass - Searched iPhone
+2025-08-12 11:43:18 [main] INFO  Baseclass.libarrayclass - Clicked Search
+2025-08-12 11:43:18 [main] INFO  Baseclass.libarrayclass - Naviagted to result page
+2025-08-12 11:43:19 [main] INFO  Baseclass.libarrayclass - Closed Browser
+2025-08-12 11:43:19 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:43:19 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:43:21 [main] INFO  Baseclass.libarrayclass - Launching Chrome browser...
+2025-08-12 11:43:23 [main] INFO  Baseclass.libarrayclass - Maximixing the browser
+2025-08-12 11:43:27 [main] INFO  Baseclass.libarrayclass - Naivagated to url
+2025-08-12 11:43:27 [main] INFO  Baseclass.libarrayclass - Application Launched
+2025-08-12 11:43:38 [main] INFO  Baseclass.libarrayclass - Searched Samsung
+2025-08-12 11:43:41 [main] INFO  Baseclass.libarrayclass - Clicked Search
+2025-08-12 11:43:41 [main] INFO  Baseclass.libarrayclass - Naviagted to result page
+2025-08-12 11:43:42 [main] INFO  Baseclass.libarrayclass - Closed Browser
+2025-08-12 11:43:42 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:43:42 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:43:44 [main] INFO  Baseclass.libarrayclass - Launching Chrome browser...
+2025-08-12 11:43:46 [main] INFO  Baseclass.libarrayclass - Maximixing the browser
+2025-08-12 11:43:49 [main] INFO  Baseclass.libarrayclass - Naivagated to url
+2025-08-12 11:43:49 [main] INFO  Baseclass.libarrayclass - Application Launched
+2025-08-12 11:43:59 [main] INFO  Baseclass.libarrayclass - Searched Laptop
+2025-08-12 11:44:03 [main] INFO  Baseclass.libarrayclass - Clicked Search
+2025-08-12 11:44:03 [main] INFO  Baseclass.libarrayclass - Naviagted to result page
+2025-08-12 11:44:04 [main] INFO  Baseclass.libarrayclass - Closed Browser
+2025-08-12 11:44:04 [main] INFO  Baseclass.libarrayclass - Read Property file
+2025-08-12 11:44:04 [main] INFO  Baseclass.libarrayclass - Launching browser...
+2025-08-12 11:44:06 [main] INFO  Baseclass.libarrayclass - Launching Chrome browser...
+2025-08-12 11:44:07 [main] INFO  Baseclass.libarrayclass - Maximixing the browser
+2025-08-12 11:44:11 [main] INFO  Baseclass.libarrayclass - Naivagated to url
+2025-08-12 11:44:11 [main] INFO  Baseclass.libarrayclass - Application Launched
+2025-08-12 11:44:26 [main] INFO  Baseclass.libarrayclass - Searched for: books
+2025-08-12 11:44:39 [main] INFO  Baseclass.libarrayclass - Searched for: tv
+2025-08-12 11:45:00 [main] INFO  Baseclass.libarrayclass - Closed Browser
