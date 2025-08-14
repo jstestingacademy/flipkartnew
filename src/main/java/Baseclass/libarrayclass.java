@@ -9,7 +9,10 @@ import org.apache.logging.log4j.Logger;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import java.nio.file.Files;
+import java.nio.file.Paths; 
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -26,7 +29,7 @@ public class libarrayclass {
             config.load(fis);
             logger.info("Read Property file");
         } catch (IOException e) {
-            System.out.println("Failed to load configuration: " + e.getMessage());
+            logger.error("Failed to load configuration: " + e.getMessage());
         }
     }
 
@@ -39,36 +42,46 @@ public class libarrayclass {
 
         if (browser.equalsIgnoreCase("chrome")) {
             WebDriverManager.chromedriver().setup();
-            driver = new ChromeDriver();
+
+            ChromeOptions options = new ChromeOptions();
+            options.addArguments("--remote-allow-origins=*");
+            options.addArguments("--no-sandbox");
+            options.addArguments("--disable-dev-shm-usage");
+            options.addArguments("--disable-gpu");
+            options.addArguments("--headless=new"); // Headless for Docker
+            try {
+                String tempProfileDir = Files.createTempDirectory("chrome-profile").toString();
+                options.addArguments("--user-data-dir=" + tempProfileDir);
+            } catch (IOException e) {
+                logger.warn("Could not create temp Chrome profile dir: " + e.getMessage());
+            }
+
+            driver = new ChromeDriver(options);
             logger.info("Launching Chrome browser...");
         }
-        
-        else if(browser.equalsIgnoreCase("firefox")){
-        	 WebDriverManager.firefoxdriver().setup();
-             driver = new FirefoxDriver();
-             logger.info("Launching Firefox browser...");
+        else if (browser.equalsIgnoreCase("firefox")) {
+            WebDriverManager.firefoxdriver().setup();
+            driver = new FirefoxDriver();
+            logger.info("Launching Firefox browser...");
         }
-        	
-        
-        // You can add other browsers like Firefox, Edge etc.
 
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(implicitWait));
-        logger.info("Maximixing the browser");
+        logger.info("Maximized the browser");
     }
 
     // Open application using config URL
     public static void openApplication() {
         String url = config.getProperty("url");
         driver.get(url);
-        logger.info("Naivagated to url");
+        logger.info("Navigated to URL: " + url);
     }
 
     // Close the browser
     public static void closeBrowser() {
         if (driver != null) {
             driver.quit();
-            logger.info("Closed Browser");  
+            logger.info("Closed Browser");
         }
     }
 }
